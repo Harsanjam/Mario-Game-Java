@@ -7,5 +7,6 @@ Player can jump on platforms to collect coins placed across the map. total point
 
 
 
-https://github.com/Harsanjam/Mario-Game-Java/assets/56749102/c06cb883-f554-4a09-b504-b9cdd7c17083
+https://github.com/Harsanjam/Mario-Game-Java/assets/56749102/bc618d35-19a7-4230-aeec-a0c849ea2521
+
 
